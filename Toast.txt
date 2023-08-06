@@ -1,0 +1,10 @@
+Toast Notification:-
+
+Overview. The JavaScript Toast is a small, nonblocking notification pop-up. 
+It is a readable message displayed at the bottom of the screen or at a specific target 
+and disappears automatically after a few seconds (time out) with different
+animation effects.
+
+The duration that the toast should remain on the screen.
+Toast notifications are used to communicate low severity level information
+ to users in an unobtrusive way.
